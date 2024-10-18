@@ -1,1 +1,1 @@
-# compositional-learning.github.io
+# ai-for-science.github.io
