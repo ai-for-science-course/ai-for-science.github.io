@@ -1,1 +1,1 @@
-# ai-for-science.github.io
+# ai-for-science-course.github.io
